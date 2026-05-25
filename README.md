@@ -1,4 +1,4 @@
-# Ahorro Fibonacci — Desafío Web 2025
+# Ahorro Fibonacci — Desafío Web 2026
 
 Página web interactiva que aplica la **serie de Fibonacci** y la detección de **números primos** a un plan de ahorro progresivo.
 
